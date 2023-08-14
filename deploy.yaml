@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: hiransanjeewa/django:110
+image: hiransanjeewa/django:13
         ports:
         - containerPort: 8000
